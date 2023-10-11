@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: vm-template-backstage
+  annotations: {}
+spec:
+  type: service
+  lifecycle: production
+  owner: user:default/jdoe

@@ -1,0 +1,5 @@
+resource_group_location = "WESTEU"
+resource_group_name_prefix = "rgp-DEF"
+username = "c336816"
+vm_name = "my-vm"
+vm_type = "Standard_DS4_v2"
